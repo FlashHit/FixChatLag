@@ -1,0 +1,9 @@
+{
+	"Name": "FixChatLag",
+	"Authors": ["Flash_Hit"],
+	"Description": "Fixes the chat lag that gets caused after 200 messages.",
+	"URL": "none",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
